@@ -33,3 +33,7 @@ Enter the second number using the number buttons.
 Press the "=" button to display the result of the operation.
 
 This calculator application is designed to be user-friendly and straightforward, making it suitable for beginners who are learning JavaScript programming or anyone who needs a basic calculator for simple calculations.
+
+# Screenshots
+
+<img src = "./calculatorimg.png">
