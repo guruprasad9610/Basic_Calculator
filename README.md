@@ -6,6 +6,12 @@ The calculator provides basic arithmetic operations such as addition, subtractio
 
 This claculator has Neumorphism and Glassmorphism UI Designs
 
+# Deployed Link
+
+https://babulcalculator.netlify.app/
+
+https://guruprasad9610.github.io/Basic_Calculator/
+
 # Features:
 
 Addition: Perform simple addition of two numbers.
