@@ -36,4 +36,4 @@ This calculator application is designed to be user-friendly and straightforward,
 
 # Screenshots
 
-<img src = "./Basic_Calculator/calculatorimg.png">
+<img src="/Basic_Calculator/calculatorimg.png">
