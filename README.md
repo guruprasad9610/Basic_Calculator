@@ -1,18 +1,18 @@
 # Basic_Calculator
 
-This repository contains a simple and lightweight Basic Calculator application implemented in HTML, CSS, and JavaScript. 
+This repository contains a simple and lightweight **Basic Calculator** application implemented in HTML, CSS, and JavaScript. 
 
 The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division. 
 
 This claculator has Neumorphism and Glassmorphism UI Designs
 
-# Deployed Link
+#@ Deployed Link
 
 https://babulcalculator.netlify.app/
 
 https://guruprasad9610.github.io/Basic_Calculator/
 
-# Features:
+#@ Features:
 
 Addition: Perform simple addition of two numbers.
 
@@ -22,7 +22,7 @@ Multiplication: Perform simple multiplication of two numbers.
 
 Division: Perform simple division of two numbers.
 
-# Usage:
+#@ Usage:
 
 Enter the first number using the number buttons.
 
