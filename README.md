@@ -8,7 +8,7 @@ This claculator has Neumorphism and Glassmorphism UI Designs
 
 ## Deployed Link
 
-https://babulcalculator.netlify.app/
+https://basicneocalculator.netlify.app/
 
 https://guruprasad9610.github.io/Basic_Calculator/
 
