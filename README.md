@@ -1,4 +1,4 @@
-# Basic_Calculator
+# Basic Calculator
 
 This repository contains a simple and lightweight **Basic Calculator** application implemented in HTML, CSS, and JavaScript. 
 
